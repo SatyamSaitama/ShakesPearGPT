@@ -51,7 +51,7 @@ Prepare for similarity searches by embedding your documents using OpenAIEmbeddin
 from langchain.embeddings.openai import OpenAIEmbeddings
 import os
 
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', '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')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', 'your_api_key')
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 ```
 
