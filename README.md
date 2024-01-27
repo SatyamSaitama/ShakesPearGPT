@@ -1,6 +1,6 @@
 # ShakespearGPT: Seamlessly Integrating Shakespearean Wisdom with Conversational AI
 
-ShakespearGPT is a unique fusion of Shakespearean literature's profound insights and ChatGPT's conversational prowess. By leveraging the capabilities of ChatGPT's API and the timeless legacy of Shakespeare's works, we embark on a journey of exploration into the realms of language and knowledge.
+**ShakespearGPT** seamlessly integrates the profound insights of **Shakespeare's literature** with the conversational prowess of **ChatGPT**. Leveraging the capabilities of **ChatGPT's API** and the timeless legacy of **Shakespeare's works**, we embark on a journey of exploration. With the aid of basic retrieval through **Top-K Similarity search**, our approach is fortified by a text file boasting approximately **40,000 lines**, surpassing the limitations of a single context window. By harnessing **Langchain** and constructing a **vector store**, we transcend constraints, furnishing **ChatGPT** with relevant paragraphs or vectors as a knowledge base. This innovative concept extends beyond text files to encompass **PDFs** and large documents, unlocking a realm of boundless possibilities.
 
 ## Installations
 To get started with ShakespearGPT, follow these installation steps:
